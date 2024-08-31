@@ -24,11 +24,11 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
+- [TODO](./TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
-- [License](../LICENSE.md)
+- [License](./LICENSE.md)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -78,4 +78,4 @@ Shoutouts will go here for any cool tools, tutorials, or people that help along 
 
 ## License <a name = "license"></a>
 
-Please make sure to read and understand the [License](../LICENSE.md) agreement as it is. If you have any questions or need further clarification, feel free to contact me at [admin@redacks.com]mailto:admin@redacks.com.
+Please make sure to read and understand the [License](./LICENSE.md) agreement as it is. If you have any questions or need further clarification, feel free to contact me at [admin@redacks.com]mailto:admin@redacks.com.
